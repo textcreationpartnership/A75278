@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech and confession of Edward Altham, who was executed at Tyburn, on Friday the twentieth of ... July, 1688 ...</title>
+            <author>Altham, Edward, d. 1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75278</idno>
+            <idno type="STC">Wing A2930</idno>
+            <idno type="STC">ESTC R222236</idno>
+            <idno type="EEBO-CITATION">36273060</idno>
+            <idno type="OCLC">ocm 36273060</idno>
+            <idno type="VID">150016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75278)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2224:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech and confession of Edward Altham, who was executed at Tyburn, on Friday the twentieth of ... July, 1688 ...</title>
+                  <author>Altham, Edward, d. 1688.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Altham, Edward, d. 1688.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="scaffold_speech">
+            <pb n="1" facs="tcp:150016:1"/>
+            <!-- PDF PAGE 28 -->
+            <head>The Laſt SPEECH AND CONFESSION OF Edward Altham, Who was Executed at TYBURN, ON <hi>Friday</hi> the Twentieth of this Inſtant <hi>July,</hi> 1688. for a Rape committed upon the Body of <hi>Ruth Ewbanck,</hi> a Girl about Nine Years of Age.</head>
+            <p>THis Day <hi>Edward Altham</hi> was conveyed in a Coach from <hi>Newgate</hi> to <hi>Tyburn,</hi> in order to be Executed there. Upon his Tryal in the <hi>Old-Baily,</hi> he utterly Deny'd the Fact, altho' it was very fully and clearly Prov'd upon him by ſeveral very plain Evidence; beſides the Girl confidently affirming that he was the Perſon that Lay with her, he being a near Neighbour to her Father, one Mr. <hi>Ewbanck,</hi> in or near <hi>Old-Jury, London.</hi> Alſo one of the Evi<g ref="char:EOLhyphen"/>dence ſaw him in the Room where the Girl cry'd out, after ſhe had ſo cried out, where he laid her upon the Bed, and made the Rape upon her.</p>
+            <p>He had the benefit of Mr. Ordinary of <hi>Newgate,</hi> and other Miniſters coming to him after he was Condemn'd, who oftentimes viſited him in Priſon, in order to prepare him for his future State, but could by no means work any thing upon him, whereby to make him Confeſs the
+<pb n="2" facs="tcp:150016:2"/>
+               <!-- PDF PAGE 29 -->
+Crime, altho' the Horridneſs of it was laid open before him. But to the very laſt Breath, even when the Cart was draw'd away, he Denied the Fact, and would by no means be brought to any Con<g ref="char:EOLhyphen"/>feſſion, neither by the Ordinary, nor the good Advice of another Mi<g ref="char:EOLhyphen"/>niſter, who were both preſent in the Cart, and Prayed with him and for him; and told him, That they could no ways abſolve or give him any ſure S<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tisfaction of the Safety of his future Happineſs, without his ingenuous Confeſſion. He anſwered them very affectionately, That he never committed any ſuch thing to the ſaid <hi>Ruth:</hi> All that ever he did, was only giving her a ſlap on her hinder Parts with his Hand. This he peremptorily ſtood in, ſaying, That he was falſly Swore againſt, and therefore would Dye in that ſort of Innocency, and leave the Iſſue to Almighty God. When he was in the Cart, he behaved himſelf very Penitently, and lamented his Untimely End, directing his Speech to the People, as followeth.</p>
+            <p>
+               <q>Good People, let me beg you all here preſent to have a care of your Luſt and evil Inclinations, and be ſure have a great care you do not break the <hi>Sabbath-day,</hi> a Sin which I have been very much guilty of, the product of which hath brought me to commit ſeveral other enormous and very wicked Actions, for which I have deſerved Death heretofore. Oh (ſaid he) what miſerable and unexpected Miſchiefs do Men bring themſelves to, by their own private Luſts and wicked Devices, being too apt to give way to the Temptations of the Devil, that common Enemy to all Mankind. Let every good Man take warning by me, and ſuch other like Examples that are be<g ref="char:EOLhyphen"/>fore you; and let us all pray to Almighty God, to keep us from Tem<g ref="char:EOLhyphen"/>ptations in this wicked World. And, Oh that you would all make good Uſe of every Example, ſo that it may ground you the better in the Practiſe of True Religion and Godlineſs. Let Men have a care of ſlighting the Mercies of God, and not make a Scoff and a Mock at Sin, leſt God give them up to ſuch like Evils as I have been guilty of, and drawn into; and then God will have more Honour, and the Goſpel of Chriſt more Credit, and many a Soul will be ſaved from Death both Temporal and Eternal I beg you that hear me at this time, once more to be more wary how you order your Lives and Converſations in this World, and conſider what a heighth of Sin Men are grown to, and what power the Devil gets upon Men, eſpecially when they too much yield to his Allurements in the diver<g ref="char:EOLhyphen"/>ſities of his Temptations. Gentlemen, I have been guilty of all manner of Sin, and have committed Adultery, but never committed Murther in my life.</q>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:150016:2"/>
+               <!-- PDF PAGE 29 -->
+After this, he Prayed for himſelf, and ſung a Pſalm, and the Mini<g ref="char:EOLhyphen"/>ſters both Prayed for him, as aforeſaid. And indeed he behaved himſelf excellent well, and very ſenſibly, much like a Perſon of a more than ordinary Birth and Education, which did very much affect the Spectators, every Perſon ſeeming to be very Sorrowful for his Un<g ref="char:EOLhyphen"/>timely End.</p>
+            <p>
+               <label>His PRAYER, as followeth.</label>
+               <q>O Almighty and Everlaſting God, who art exceeding Merciful and Kind to ſuch poor Creatures as I am, who have committed very great and odious 'Sins and Iniquities againſt thee. Lord pardon all unto me in the Blood of <hi>Chriſt;</hi> I am a poor Creature brought here to Die for my Sins: I Confeſs all to thee; but Lord thou knoweſt my Inno<g ref="char:EOLhyphen"/>ceny in this: I therefore come, throwing my Soul upon thy Infinite Mercy, through <hi>Chriſt,</hi> for Salvation. Lord hear me! Lord hear me! for thy Mercies ſake, and for <hi>Jeſus Chriſt</hi> his ſake, and take my Precious Soul to thy moſt Bleſſed Son's Bo<g ref="char:EOLhyphen"/>ſom. Help, O Lord, through this Agony of Death, and bring me to thy Bleſſed Self. Sweet <hi>Jeſus</hi> Receive my Spirit. <hi>Amen.</hi>
+               </q>
+            </p>
+            <p>This is all, as to the manner of behaving himſelf ſince his Con<g ref="char:EOLhyphen"/>demnation, even that he utterly Denied the Fact to the laſt, as afore-ſaid.</p>
+            <p>After he had Hanged about the ſpace of an Hour, he was Cut down, and conveyed back to <hi>London</hi> in a Coach, being put into his Coffin by his Friends and others of his Acquaintance, who were Per<g ref="char:EOLhyphen"/>ſons of good Credit, that were preſent at his Execution; and was after decently Buried by his Relations.</p>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>THere was a Man found Dead this Morning about Eight or Nine a Clock in <hi>Paddington Fields</hi> near <hi>Tyburn,</hi> hard by the Place where the <hi>Vintner</hi> Kill'd his Wife about four Years ſince. He is now to be ſeen at <hi>Paddington,</hi> lying in a Publick Houſe, Wounded in three or four Places about his Body; but what he is, or who he belongs to, is not yet known, but ſeems to have belong'd to ſome Noble Perſon.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>With Allowance.</p>
+            <closer>
+               <dateline>
+                  <date>July 21. 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet,</hi> near <hi>Baynard's-Caſtle,</hi> 1688.</p>
+            <pb facs="tcp:150016:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </back>
+   </text>
+</TEI>
